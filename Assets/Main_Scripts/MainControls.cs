@@ -100,13 +100,12 @@ public class MainControls : MonoBehaviour
     void SetAIText(string response){
         //todo;
         AIResposne = response;
-        print(AIResposne);
-        LLMSpeak(AIResposne);
+        
     }
     void AIReplyComplete()
     {
-        //print(AIResposne);
-        //LLMSpeak(AIResposne);
+        print(AIResposne);
+        LLMSpeak(AIResposne);
     }
 
     async void LLMSpeak(string response){
