@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "ai.undream.llm": "file:D:/MTP/LLMUnity-main",
+    "com.readyplayerme.core": "https://github.com/readyplayerme/rpm-unity-sdk-core.git",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.ide.rider": "3.0.31",
